@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/01_HelloSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCore/pom.xml" />
+        <option value="$PROJECT_DIR$/02_SpringCore/pom.xml" />
+        <option value="$PROJECT_DIR$/03_BeanScope/pom.xml" />
+        <option value="$PROJECT_DIR$/04_BeanLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/05_Spring_DI/pom.xml" />
+        <option value="$PROJECT_DIR$/06_Spring_DI_2/pom.xml" />
+        <option value="$PROJECT_DIR$/07_FullMode_LightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Spring_Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/09_Runtime_Value_Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/10_Spring_Enviorment/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
